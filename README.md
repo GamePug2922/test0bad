@@ -1,0 +1,1 @@
+# quickpower.cf
